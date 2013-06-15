@@ -1,5 +1,5 @@
-webby
-=====
+Temporary Official Website
+==========================
 
-http://cj-cord.github.io/webby/
+http://cj-cord.github.io
 
