@@ -1,5 +1,5 @@
 Temporary Official Website
 ==========================
 
-http://cj-cord.github.io
+http://cord-dev.github.io
 
